@@ -25,8 +25,3 @@ def endsPy(input):
 	"""
 
 	return input.lower()[-2:]== "py"
-
-print(endsPy("ilovepy"))
-print(endsPy("welovepy"))
-print(endsPy("welovepyforreal"))
-print(endsPy("pyiscool"))
