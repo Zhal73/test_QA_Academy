@@ -1,1 +1,4 @@
 this is a test text
+
+
+this is a line added from the virtual machine
